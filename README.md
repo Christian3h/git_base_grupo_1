@@ -1,18 +1,21 @@
-<<<<<<< HEAD
-# Proyecto del Grupo 1
-=======
-# git_base_grupo_1
+# Proyecto Git - Grupo 1
 
-Repositorio de práctica del Grupo 1.
+## Integrantes
+- Christian
+- Sebastian
+- Felipe
+- Jorge
 
-Descripción:
+## Descripción
+Repositorio de práctica del Grupo 1 sobre uso de Git.
 
-- Archivos de ejemplo y ejercicios sobre uso de Git.
+## Contenido
+- Archivos de ejemplo y ejercicios sobre uso de Git
+- Teoría y conceptos de control de versiones
 
-Instrucciones rápidas:
+## Instrucciones
+1. Clonar el repositorio
+2. Crear ramas y realizar commits para las tareas
+3. Realizar merges y resolver conflictos
 
-1. Clonar el repositorio.
-2. Crear ramas y realizar commits para las tareas.
-
-Autor: Grupo 1
->>>>>>> origin/jorge
+**Autor:** Grupo 1
