@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Proyecto del Grupo 1
+=======
 # git_base_grupo_1
 
 Repositorio de práctica del Grupo 1.
@@ -12,3 +15,4 @@ Instrucciones rápidas:
 2. Crear ramas y realizar commits para las tareas.
 
 Autor: Grupo 1
+>>>>>>> origin/jorge
